@@ -1,17 +1,44 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>HiBit-Uninstaller卸载软件1</title>
-    <url>/2024/09/30/HiBit-Uninstaller/</url>
-    <content><![CDATA[<h2 id="HiBit-Uninstaller"><a href="#HiBit-Uninstaller" class="headerlink" title="HiBit Uninstaller"></a>HiBit Uninstaller</h2><h3 id="介绍"><a href="#介绍" class="headerlink" title="介绍"></a>介绍</h3><p>HiBit Uninstaller是一款开源的卸载软件，可以卸载大部分Windows软件。<br>完全卸载Stubborn软件，Windows应用程序和浏览器扩展。</p>
-<p>支持Windows Vista&#x2F;7&#x2F;8&#x2F;10&#x2F;11（32&#x2F;64 位）</p>
-<h3 id="下载地址"><a href="#下载地址" class="headerlink" title="下载地址"></a>下载地址</h3><p><a href="http://hibitsoft.ir/Uninstaller.html">HiBit Uninstaller</a></p>
+    <title>Office Tool Plus</title>
+    <url>/2024/10/26/Office-Tool-Plus/</url>
+    <content><![CDATA[<h2 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h2><p>Office Tool Plus 是一款基于 Office 办公软件的辅助工具<br>Office Tool Plus 基于 Office 部署工具制作，可以很方便的部署 Office，其内置迅雷云加速开放平台和 Downloader 引擎可帮助您更快地下载 Office。你也可以使用 Office Tool Plus 的其他功能、小工具快捷、方便地激活和管理 Office 哦！</p>
+<h2 id="功能"><a href="#功能" class="headerlink" title="功能"></a>功能</h2><ol>
+<li>创建 Office 安装配置，支持导出到本地，或从本地或网络位置导入。</li>
+<li>下载 Office，支持所有通道的 Office，支持所有的 Office 语言。</li>
+<li>安装 Office，支持对现有的 Office 进行修改，例如产品、语言、应用程序的安装与卸载。</li>
+<li>创建 Office ISO，支持默认安装配置、静默安装配置、扩展安装脚本。</li>
+<li>激活 Office，支持在线激活、电话激活、KMS 激活。</li>
+<li>支持 Office 授权管理，包括许可证管理，密钥管理以及 KMS 管理。</li>
+<li>修改 Office 更新通道，支持在不重装 Office 的情况下升级&#x2F;降级 Office.</li>
+<li>移除 Office，在 Office 无法正常卸载的情况下强制移除 Office，支持 Office 2003 - Office 最新版本。</li>
+<li>内置 Office 工具箱，包括重置设置，修复安装问题，修复激活问题等。</li>
+<li>转换 Office 文档，基于 Office COM，稳定、快速、可靠。</li>
+<li>自定义主题，打造你自己的专属 Office Tool Plus.</li>
+</ol>
+<h2 id="下载地址"><a href="#下载地址" class="headerlink" title="下载地址"></a>下载地址</h2><p><a href="https://otp.landian.vip/zh-cn/">https://otp.landian.vip/zh-cn/</a></p>
 ]]></content>
       <categories>
-        <category>教程</category>
+        <category>工具</category>
       </categories>
       <tags>
-        <tag>教程</tag>
+        <tag>工具</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Typora-一款 Markdown 编辑器和阅读器</title>
+    <url>/2024/10/26/Typora/</url>
+    <content><![CDATA[<h2 id="介绍"><a href="#介绍" class="headerlink" title="介绍"></a>介绍</h2><p>Typora 是一款开源的 Markdown 编辑器和阅读器，支持 Windows、macOS、Linux 三个平台。它具有强大的功能，包括语法高亮、LaTeX 公式、表格、流程图、时序图、甘特图、任务列表、图片、文件、PDF、公式、代码块、目录、侧边栏、主题、导入导出、打印、导出 HTML、PDF、EPUB、Word、RTF、离线阅读等。</p>
+<h3 id="风格极简-多种主题-支持-macOS，Windows-及-Linux"><a href="#风格极简-多种主题-支持-macOS，Windows-及-Linux" class="headerlink" title="风格极简 &#x2F; 多种主题 &#x2F; 支持 macOS，Windows 及 Linux"></a>风格极简 &#x2F; 多种主题 &#x2F; 支持 macOS，Windows 及 Linux</h3><p>实时预览 &#x2F; 图片与文字 &#x2F; 代码块 &#x2F; 数学公式 &#x2F; 图表<br>目录大纲 &#x2F; 文件管理 &#x2F; 导入与导出 ……</p>
+<h1 id="下载地址"><a href="#下载地址" class="headerlink" title="下载地址"></a>下载地址</h1><p>官方网站：<a href="https://typoraio.cn/">https://typoraio.cn/</a></p>
+<h1 id="激活dll文件"><a href="#激活dll文件" class="headerlink" title="激活dll文件"></a>激活dll文件</h1><p><a href="https://tbmiao.zeabur.app/img/jiaocheng/potplayer-%E5%BA%94%E7%94%A8/winmm.dll">text</a></p>
+]]></content>
+      <categories>
+        <category>工具</category>
+      </categories>
+      <tags>
+        <tag>工具</tag>
       </tags>
   </entry>
   <entry>
@@ -49,6 +76,20 @@
       </tags>
   </entry>
   <entry>
+    <title>HiBit-Uninstaller卸载软件1</title>
+    <url>/2024/09/30/HiBit-Uninstaller/</url>
+    <content><![CDATA[<h2 id="HiBit-Uninstaller"><a href="#HiBit-Uninstaller" class="headerlink" title="HiBit Uninstaller"></a>HiBit Uninstaller</h2><h3 id="介绍"><a href="#介绍" class="headerlink" title="介绍"></a>介绍</h3><p>HiBit Uninstaller是一款开源的卸载软件，可以卸载大部分Windows软件。<br>完全卸载Stubborn软件，Windows应用程序和浏览器扩展。</p>
+<p>支持Windows Vista&#x2F;7&#x2F;8&#x2F;10&#x2F;11（32&#x2F;64 位）</p>
+<h3 id="下载地址"><a href="#下载地址" class="headerlink" title="下载地址"></a>下载地址</h3><p><a href="http://hibitsoft.ir/Uninstaller.html">HiBit Uninstaller</a></p>
+]]></content>
+      <categories>
+        <category>教程</category>
+      </categories>
+      <tags>
+        <tag>教程</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>歌唱祖国</title>
     <url>/2024/09/08/gczg/</url>
     <content><![CDATA[<h1 id="视频"><a href="#视频" class="headerlink" title="视频"></a>视频</h1><p><video src="https://tbmiao.zeabur.app/img/img2/gczg.mp4" controls="controls" width="640" height="480"></video></p>
@@ -73,20 +114,6 @@
       </tags>
   </entry>
   <entry>
-    <title>geek卸载软件2</title>
-    <url>/2024/09/30/geek/</url>
-    <content><![CDATA[<h2 id="GEEK-UNINSTALLER"><a href="#GEEK-UNINSTALLER" class="headerlink" title="GEEK UNINSTALLER"></a>GEEK UNINSTALLER</h2><h2 id="兼容性"><a href="#兼容性" class="headerlink" title="兼容性"></a>兼容性</h2><p>32位和64位Windows 11&#x2F;10&#x2F;7&#x2F;8&#x2F;8.1。需要管理员权限。<br>在 x64 上运行时，Windows Geek Uninstaller 作为本机 64 位应用程序运行。</p>
-<h2 id="最新发行说明"><a href="#最新发行说明" class="headerlink" title="最新发行说明"></a>最新发行说明</h2><p><a href="https://geekuninstaller.com/download?version=1.5.2.165">https://geekuninstaller.com/download?version=1.5.2.165</a></p>
-<h2 id="下载地址"><a href="#下载地址" class="headerlink" title="下载地址"></a>下载地址</h2><p>[<a href="https://geekuninstaller.com/download?version=1.5.2.165%5D">https://geekuninstaller.com/download?version=1.5.2.165]</a><br>(<a href="https://geekuninstaller.com/download?version=1.5.2.165">https://geekuninstaller.com/download?version=1.5.2.165</a>)</p>
-]]></content>
-      <categories>
-        <category>教程</category>
-      </categories>
-      <tags>
-        <tag>教程</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>Hello World</title>
     <url>/2024/09/15/hello-world/</url>
     <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
@@ -99,6 +126,46 @@
 <li><a href="https://butterfly.js.org/">Butterfly</a></li>
 </ul>
 ]]></content>
+  </entry>
+  <entry>
+    <title>innosetup安装程序工具1</title>
+    <url>/2024/10/26/innosetup/</url>
+    <content><![CDATA[<h1 id="innosetup安装程序工具1"><a href="#innosetup安装程序工具1" class="headerlink" title="innosetup安装程序工具1"></a>innosetup安装程序工具1</h1><h1 id="产品特点"><a href="#产品特点" class="headerlink" title="产品特点"></a>产品特点</h1><p>详细了解 Inno Setup 可以做什么。</p>
+<h1 id="主要特点"><a href="#主要特点" class="headerlink" title="主要特点"></a>主要特点</h1><ol>
+<li>支持 2006 年以来的每个 Windows 版本，包括：Windows 11、Windows 10、Arm 上的 Windows 11、Arm 上的 Windows 10、Windows Server 2019、Windows Server 2016、Windows 8.1、Windows 8、Windows Server 2012、Windows 7 和 Windows Server 2008 R2。（不需要 Service Pack。</li>
+<li>广泛支持在 64 位版本的 Windows 上安装 64 位应用程序。支持 x64、ARM64 和 Itanium 架构。</li>
+<li>为管理和非管理安装提供广泛支持。</li>
+<li>支持创建单个 EXE 来安装程序，以便于在线分发。还支持磁盘跨区。</li>
+<li>标准 Windows 向导界面。</li>
+<li>可定制的设置类型，例如 Full、Minimal、Custom。</li>
+<li>完整的卸载功能。</li>
+<li>文件安装：<br>包括对“deflate”、bzip2 和 7-Zip LZMA&#x2F;LZMA2 文件压缩的集成支持。安装程序能够比较文件版本信息、替换正在使用的文件、使用共享文件计数、注册 DLL&#x2F;OCX 和类型库以及安装字体。</li>
+<li>可在任何位置创建快捷方式，包括在“开始”菜单和桌面上。</li>
+<li>创建 registry 和 .INI 条目。</li>
+<li>在安装之前、期间或之后运行其他程序。</li>
+<li>支持多语言安装，包括从右到左的语言支持。</li>
+<li>支持密码和加密安装。</li>
+<li>支持数字签名的安装和卸载。</li>
+<li>静默安装和卸载。</li>
+<li>Unicode 安装。</li>
+<li>集成预处理器选项，用于高级编译时自定义。</li>
+<li>集成的 Pascal 脚本引擎选项，用于高级运行时安装和卸载自定义。</li>
+<li>完整的源代码可从 GitHub 获取。</li>
+<li>占用空间小：仅包含 1.75 mB 的开销，包括所有功能。</li>
+<li>所有功能都有完整的文档记录。</li>
+<li>由 Microsoft Visual Studio Code 和 Embarcardero Delphi 使用。</li>
+</ol>
+<h1 id="下载"><a href="#下载" class="headerlink" title="下载"></a>下载</h1><ol>
+<li>下载版本：<a href="https://jrsoftware.org/isdl.php">https://jrsoftware.org/isdl.php</a><br>2.直达稳定版：<a href="https://jrsoftware.org/isdl.php#stable">https://jrsoftware.org/isdl.php#stable</a></li>
+</ol>
+<h1 id="使用教程"><a href="#使用教程" class="headerlink" title="使用教程"></a>使用教程</h1><p><a href="https://blog.csdn.net/goog_man/article/details/99625628">https://blog.csdn.net/goog_man&#x2F;article&#x2F;details&#x2F;99625628</a><br>超级详细：使用Inno Setup打包可执行的exe软件，可在任何电脑中运行。</p>
+]]></content>
+      <categories>
+        <category>工具</category>
+      </categories>
+      <tags>
+        <tag>工具</tag>
+      </tags>
   </entry>
   <entry>
     <title>IDM激活脚本</title>
@@ -152,31 +219,18 @@
       </tags>
   </entry>
   <entry>
-    <title>伽卡他卡电子教室</title>
-    <url>/2024/09/21/jktk/</url>
-    <content><![CDATA[<h1 id="伽卡他卡电子教室"><a href="#伽卡他卡电子教室" class="headerlink" title="伽卡他卡电子教室"></a>伽卡他卡电子教室</h1><h2 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h2><p>伽卡他卡网络教室软件由伽卡他卡公司隆重推出，免费下载，免费使用。即安即用，无人数时间限制，不需注册码、无加密狗。<br>技术先进，功能齐全，兼容性强，稳定可靠，图像清晰流畅，持续更新。免费在线升级，诸多新功能即将陆续推出，敬请关注。<br>主要功能：考试系统（支持WORD试题、操作题），硬盘还原、P2P聊天、文件收发，日志考勤、屏幕广播、屏幕录相、学生演示、查看屏幕、远程控制警告、远程关机重启、远程开机、远程执行、黑名单（限制上网功能）、课堂评价、随堂测试、教室分隔<br>主要特色：屏幕广播流畅不卡、登录双选择、退出保护机制、气泡提示、终端与用户双命名、支持多教室、随课发起测试<br>教师端与学生端不要安装在同一台电脑上。（如电脑安装过其他电子教室软件，操作系统可能受到破坏，有时需重装系统）<br>伽卡他卡电子教室软件支持操作系统：WINDOW XP&#x2F;WIN7&#x2F;WIN8&#x2F;WIN10&#x2F;WIN11<br>伽卡他卡电子教室软件推荐配置：内存512M&#x2F;CPU1.8GHZ&#x2F;1G硬盘空间</p>
-<h2 id="下载地址"><a href="#下载地址" class="headerlink" title="下载地址"></a>下载地址</h2><p><a href="https://www.gakataka.com/index.html">https://www.gakataka.com/index.html</a></p>
+    <title>开我的世界java服务器工具</title>
+    <url>/2024/10/26/javafwqgj/</url>
+    <content><![CDATA[<h1 id="Hikari-Server-Launcher"><a href="#Hikari-Server-Launcher" class="headerlink" title="Hikari Server Launcher"></a>Hikari Server Launcher</h1><p>简单易用的Minecraft服务器安装器&#x2F;启动器</p>
+<h1 id="github项目地址"><a href="#github项目地址" class="headerlink" title="github项目地址"></a>github项目地址</h1><p><a href="https://github.com/HikariRevivalProject/HikariServerLauncher">https://github.com/HikariRevivalProject/HikariServerLauncher</a></p>
+<h1 id="下载地址"><a href="#下载地址" class="headerlink" title="下载地址"></a>下载地址</h1><p><a href="https://hsl.hikari.bond/">https://hsl.hikari.bond/</a></p>
+<h1 id="教程"><a href="#教程" class="headerlink" title="教程"></a>教程</h1><p><a href="https://www.bilibili.com/video/BV15R2qY9EsZ/?share_source=copy_web&vd_source=6994e2df3173b3d3cad6ff550a2650ff">https://www.bilibili.com/video/BV15R2qY9EsZ/?share_source&#x3D;copy_web&amp;vd_source&#x3D;6994e2df3173b3d3cad6ff550a2650ff</a></p>
 ]]></content>
       <categories>
-        <category>教程</category>
+        <category>工具</category>
       </categories>
       <tags>
-        <tag>教程</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>obs</title>
-    <url>/2024/10/12/obs/</url>
-    <content><![CDATA[<h2 id="OBS-Studio"><a href="#OBS-Studio" class="headerlink" title="OBS Studio"></a>OBS Studio</h2><p>OBS Studio 是一款开源的视频录制、直播和录制加速软件。它支持 Windows、Mac、Linux 平台，支持多种视频源和输出，包括摄像头、屏幕录制、文件、IP 电视、网络摄像头、录制设备、蓝光光碟等。它支持多种录制格式，包括 FLV、MP4、MKV、AVI、WebM、HLS、RTMP 等。它还支持直播和录制加速功能，包括录制延迟优化、流畅度优化、CPU 占用优化、带宽优化等。</p>
-<h2 id="下载地址"><a href="#下载地址" class="headerlink" title="下载地址"></a>下载地址</h2><ul>
-<li><a href="https://obsproject.com/download">官网下载</a></li>
-</ul>
-]]></content>
-      <categories>
-        <category>视频软件</category>
-      </categories>
-      <tags>
-        <tag>视频软件</tag>
+        <tag>工具</tag>
       </tags>
   </entry>
   <entry>
@@ -211,6 +265,69 @@
       </tags>
   </entry>
   <entry>
+    <title>potplayer</title>
+    <url>/2024/10/26/potplayer/</url>
+    <content><![CDATA[<h2 id="potplayer"><a href="#potplayer" class="headerlink" title="potplayer"></a>potplayer</h2><p>potplayer是一款免费的视频播放器，支持多种视频格式，包括mkv、mp4、avi、wmv等。</p>
+<h1 id="下载"><a href="#下载" class="headerlink" title="下载"></a>下载</h1><p><a href="https://potplayer.tv/?lang=zh_CN">https://potplayer.tv/?lang=zh_CN</a></p>
+<h1 id="视频源"><a href="#视频源" class="headerlink" title="视频源"></a>视频源</h1><p>[<a href="https://tbmiao.zeabur.app/img/jiaocheng/potplayer-%E5%BA%94%E7%94%A8/boxTV.m3u]">https://tbmiao.zeabur.app/img/jiaocheng/potplayer-应用/boxTV.m3u]</a></p>
+]]></content>
+      <categories>
+        <category>工具</category>
+      </categories>
+      <tags>
+        <tag>工具</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>ScreenToGif屏幕(截图工具)</title>
+    <url>/2024/10/26/screenTogif/</url>
+    <content><![CDATA[<p>带有集成编辑器的屏幕、网络摄像头和画板录像机</p>
+<h1 id="下载"><a href="#下载" class="headerlink" title="下载"></a>下载</h1><p><a href="https://www.screentogif.com/downloads">https://www.screentogif.com/downloads</a></p>
+<h1 id="如何使用"><a href="#如何使用" class="headerlink" title="如何使用"></a>如何使用</h1><p><a href="https://www.screentogif.com/how-to-use">https://www.screentogif.com/how-to-use</a></p>
+<h1 id="功能"><a href="#功能" class="headerlink" title="功能"></a>功能</h1><h2 id="文件"><a href="#文件" class="headerlink" title="文件"></a>文件</h2><p>开始新的录制或打开媒体（视频或图像）或项目文件。<br>将新的录制文件或媒体文件（视频或图像）插入到现有项目中。<br>打开最近的项目。</p>
+<h3 id="将项目导出到："><a href="#将项目导出到：" class="headerlink" title="将项目导出到："></a>将项目导出到：</h3><p>动图<br>阿彭<br>视频<br>图像<br>PSD</p>
+<h2 id="ScreenToGif-项目"><a href="#ScreenToGif-项目" class="headerlink" title="ScreenToGif 项目"></a>ScreenToGif 项目</h2><h1 id="基本控件"><a href="#基本控件" class="headerlink" title="基本控件"></a>基本控件</h1><p>撤消、重做或重置您的编辑。<br>复制、剪切和粘贴帧。<br>选择多个帧或浏览到特定帧。<br>预览动画的播放。</p>
+<h2 id="帧操作"><a href="#帧操作" class="headerlink" title="帧操作"></a>帧操作</h2><p>删除选定的帧。<br>删除重复项。<br>降低帧速率。<br>删除所有上一帧或所有下一帧。<br>反向、应用 yoyo （向前和向后） 或移动帧。<br>更改帧的延迟 （override， increase&#x2F;decrease or scale）.<br>添加标题帧。<br>添加过渡（淡化或滑动效果）。<br>图像处理<br>调整大小、裁剪或翻转&#x2F;旋转。</p>
+<h2 id="添加叠加层："><a href="#添加叠加层：" class="headerlink" title="添加叠加层："></a>添加叠加层：</h2><p>字幕&#x2F;文本。<br>绘图或形状。<br>击键或鼠标单击。<br>边框、阴影和模糊处理（像素化）。<br>水印（选择您自己的图像）。<br>Cinemagraph （选择动画的某些部分以保持静态或移动）。</p>
+]]></content>
+      <categories>
+        <category>工具</category>
+      </categories>
+      <tags>
+        <tag>工具</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>geek卸载软件2</title>
+    <url>/2024/09/30/geek/</url>
+    <content><![CDATA[<h2 id="GEEK-UNINSTALLER"><a href="#GEEK-UNINSTALLER" class="headerlink" title="GEEK UNINSTALLER"></a>GEEK UNINSTALLER</h2><h2 id="兼容性"><a href="#兼容性" class="headerlink" title="兼容性"></a>兼容性</h2><p>32位和64位Windows 11&#x2F;10&#x2F;7&#x2F;8&#x2F;8.1。需要管理员权限。<br>在 x64 上运行时，Windows Geek Uninstaller 作为本机 64 位应用程序运行。</p>
+<h2 id="最新发行说明"><a href="#最新发行说明" class="headerlink" title="最新发行说明"></a>最新发行说明</h2><p><a href="https://geekuninstaller.com/download?version=1.5.2.165">https://geekuninstaller.com/download?version=1.5.2.165</a></p>
+<h2 id="下载地址"><a href="#下载地址" class="headerlink" title="下载地址"></a>下载地址</h2><p>[<a href="https://geekuninstaller.com/download?version=1.5.2.165%5D">https://geekuninstaller.com/download?version=1.5.2.165]</a><br>(<a href="https://geekuninstaller.com/download?version=1.5.2.165">https://geekuninstaller.com/download?version=1.5.2.165</a>)</p>
+]]></content>
+      <categories>
+        <category>教程</category>
+      </categories>
+      <tags>
+        <tag>教程</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Snipaste 截图工具</title>
+    <url>/2024/10/26/snipaste/</url>
+    <content><![CDATA[<h2 id="Snipaste-截图工具"><a href="#Snipaste-截图工具" class="headerlink" title="Snipaste 截图工具"></a>Snipaste 截图工具</h2><h3 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h3><p>Snipaste 是一个简单但强大的截图工具，也可以让你将截图贴回到屏幕上！下载并打开 Snipaste，按下 F1 来开始截图，再按 F3，截图就在桌面置顶显示了。就这么简单！</p>
+<p>你还可以将剪贴板里的文字或者颜色信息转化为图片窗口，并且将它们进行缩放、旋转、翻转、设为半透明，甚至让鼠标能穿透它们！如果你是程序员、设计师，或者是大部分工作时间都在电脑前，贴图功能将改变你的工作方式、提升工作效率。</p>
+<p>Snipaste 使用很简单，但同时也有一些较高级的用法可以进一步提升你的工作效率。感兴趣的话，请抽空读一读用户手册。</p>
+<p>Snipaste 是免费软件，它也很安全，没有广告、不会扫描你的硬盘、更不会上传用户数据，它只做它应该做的事。</p>
+<h3 id="下载地址"><a href="#下载地址" class="headerlink" title="下载地址"></a>下载地址</h3><p><a href="https://zh.snipaste.com/download.html">https://zh.snipaste.com/download.html</a><br>注：要点击下载桌面版</p>
+]]></content>
+      <categories>
+        <category>工具</category>
+      </categories>
+      <tags>
+        <tag>工具</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>todesk远程控制软件2</title>
     <url>/2024/10/07/todesk/</url>
     <content><![CDATA[<h2 id="远程控制软件2"><a href="#远程控制软件2" class="headerlink" title="远程控制软件2"></a>远程控制软件2</h2><p>toddesk远程控制软件2<br><img src="https://www.todesk.com/dist/img/d6947e1.svg" alt="toddesk远程控制软件2" style="zoom:50%;" /></p>
@@ -227,15 +344,18 @@
       </tags>
   </entry>
   <entry>
-    <title>我的世界网易版的教程药水</title>
-    <url>/2024/09/08/wangyiban/</url>
-    <content><![CDATA[<h1 id="这是关于我的世界网易版的教程！-药水制作"><a href="#这是关于我的世界网易版的教程！-药水制作" class="headerlink" title="这是关于我的世界网易版的教程！(药水制作)"></a>这是关于我的世界网易版的教程！(药水制作)</h1><p>啊啊啊啊啊啊！<br>汉字丢失！！！！！！！！！！！！<br>只能看图片了。。。<br><img src="https://tbmiao.zeabur.app/img/jiaocheng/2/yd.png" alt="药水" /></p>
+    <title>obs</title>
+    <url>/2024/10/12/obs/</url>
+    <content><![CDATA[<h2 id="OBS-Studio"><a href="#OBS-Studio" class="headerlink" title="OBS Studio"></a>OBS Studio</h2><p>OBS Studio 是一款开源的视频录制、直播和录制加速软件。它支持 Windows、Mac、Linux 平台，支持多种视频源和输出，包括摄像头、屏幕录制、文件、IP 电视、网络摄像头、录制设备、蓝光光碟等。它支持多种录制格式，包括 FLV、MP4、MKV、AVI、WebM、HLS、RTMP 等。它还支持直播和录制加速功能，包括录制延迟优化、流畅度优化、CPU 占用优化、带宽优化等。</p>
+<h2 id="下载地址"><a href="#下载地址" class="headerlink" title="下载地址"></a>下载地址</h2><ul>
+<li><a href="https://obsproject.com/download">官网下载</a></li>
+</ul>
 ]]></content>
       <categories>
-        <category>教程</category>
+        <category>视频软件</category>
       </categories>
       <tags>
-        <tag>教程</tag>
+        <tag>视频软件</tag>
       </tags>
   </entry>
   <entry>
@@ -265,6 +385,31 @@
 <h2 id="2-Office激活"><a href="#2-Office激活" class="headerlink" title="2. Office激活"></a>2. Office激活</h2><p>选择2，离线永久激活<br><img src="https://tbmiao.zeabur.app/img/jiaocheng/windows jo/4.webp" alt="4"></p>
 <p>如果不成功，选择4，这种方式每180天会再次自动激活。无需额外操作。</p>
 <h2 id="3-项目开源地址："><a href="#3-项目开源地址：" class="headerlink" title="3. 项目开源地址："></a>3. 项目开源地址：</h2><p>Github开源地址(96K赞20249月18日)：<a href="https://github.com/massgravel/Microsoft-Activation-Scripts">https://github.com/massgravel/Microsoft-Activation-Scripts</a></p>
+]]></content>
+      <categories>
+        <category>教程</category>
+      </categories>
+      <tags>
+        <tag>教程</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>伽卡他卡电子教室</title>
+    <url>/2024/09/21/jktk/</url>
+    <content><![CDATA[<h1 id="伽卡他卡电子教室"><a href="#伽卡他卡电子教室" class="headerlink" title="伽卡他卡电子教室"></a>伽卡他卡电子教室</h1><h2 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h2><p>伽卡他卡网络教室软件由伽卡他卡公司隆重推出，免费下载，免费使用。即安即用，无人数时间限制，不需注册码、无加密狗。<br>技术先进，功能齐全，兼容性强，稳定可靠，图像清晰流畅，持续更新。免费在线升级，诸多新功能即将陆续推出，敬请关注。<br>主要功能：考试系统（支持WORD试题、操作题），硬盘还原、P2P聊天、文件收发，日志考勤、屏幕广播、屏幕录相、学生演示、查看屏幕、远程控制警告、远程关机重启、远程开机、远程执行、黑名单（限制上网功能）、课堂评价、随堂测试、教室分隔<br>主要特色：屏幕广播流畅不卡、登录双选择、退出保护机制、气泡提示、终端与用户双命名、支持多教室、随课发起测试<br>教师端与学生端不要安装在同一台电脑上。（如电脑安装过其他电子教室软件，操作系统可能受到破坏，有时需重装系统）<br>伽卡他卡电子教室软件支持操作系统：WINDOW XP&#x2F;WIN7&#x2F;WIN8&#x2F;WIN10&#x2F;WIN11<br>伽卡他卡电子教室软件推荐配置：内存512M&#x2F;CPU1.8GHZ&#x2F;1G硬盘空间</p>
+<h2 id="下载地址"><a href="#下载地址" class="headerlink" title="下载地址"></a>下载地址</h2><p><a href="https://www.gakataka.com/index.html">https://www.gakataka.com/index.html</a></p>
+]]></content>
+      <categories>
+        <category>教程</category>
+      </categories>
+      <tags>
+        <tag>教程</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>我的世界网易版的教程药水</title>
+    <url>/2024/09/08/wangyiban/</url>
+    <content><![CDATA[<h1 id="这是关于我的世界网易版的教程！-药水制作"><a href="#这是关于我的世界网易版的教程！-药水制作" class="headerlink" title="这是关于我的世界网易版的教程！(药水制作)"></a>这是关于我的世界网易版的教程！(药水制作)</h1><p>啊啊啊啊啊啊！<br>汉字丢失！！！！！！！！！！！！<br>只能看图片了。。。<br><img src="https://tbmiao.zeabur.app/img/jiaocheng/2/yd.png" alt="药水" /></p>
 ]]></content>
       <categories>
         <category>教程</category>
