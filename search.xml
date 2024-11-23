@@ -1,6 +1,35 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>解压缩工具推荐</title>
+    <url>/2024/11/23/7zip/</url>
+    <content><![CDATA[<h2 id="7-Zip"><a href="#7-Zip" class="headerlink" title="7-Zip"></a>7-Zip</h2><img src="https://www.7-zip.org/7ziplogo.png" alt="7-Zip" style="zoom:50%;" />
+7-Zip 是开源的免费软件。 大部分代码都在 GNU LGPL 许可证下。 代码的某些部分遵循 BSD 3-clause License。 此外，代码的某些部分也有 unRAR 许可证限制。 阅读 7-Zip 许可证信息。
+
+<p>您可以在任何计算机上使用 7-Zip，包括商业组织中的计算机。 您无需注册或支付 7-Zip 费用。</p>
+<h1 id="7-Zip-的主要特点"><a href="#7-Zip-的主要特点" class="headerlink" title="7-Zip 的主要特点"></a>7-Zip 的主要特点</h1><ol>
+<li>7z 格式的高压缩比，带 LZMA 和 LZMA2 压缩</li>
+<li>支持的格式：<br>打包&#x2F;拆包：7z、XZ、BZIP2、GZIP、TAR、ZIP 和 WIM<br>仅开箱：APFS、AR、ARJ、CAB、CHM、CPIO、CramFS、DMG、EXT、FAT、GPT、HFS、 IHEX、ISO、LZH、LZMA、MBR、MSI、NSIS、NTFS、QCOW2、RAR、 RPM、SquashFS、UDF、UEFI、VDI、VHD、VHDX、VMDK、XAR 和 Z。</li>
+<li>对于 ZIP 和 GZIP 格式，7-Zip 提供的压缩率为 比 PKZip 和 WinZip 提供的比率高 2-10%</li>
+<li>7z 和 ZIP 格式的强 AES-256 加密</li>
+<li>7z 格式的自解压功能</li>
+<li>与 Windows Shell 集成</li>
+<li>强大的文件管理器</li>
+<li>强大的命令行版本</li>
+<li>FAR Manager 插件</li>
+<li>87 种语言的本地化</li>
+<li>7-Zip 适用于 Windows 11 &#x2F; 10 &#x2F; 8 &#x2F; 7 &#x2F; Vista &#x2F; XP &#x2F; 2022 &#x2F; 2019 &#x2F; 2016 &#x2F; 2012 &#x2F; 2008 &#x2F; 2003 &#x2F; 2000。</li>
+</ol>
+<h1 id="7-Zip-适用于-Windows-11-10-8-7-Vista-XP-2022-2019-2016-2012-2008-2003-2000。"><a href="#7-Zip-适用于-Windows-11-10-8-7-Vista-XP-2022-2019-2016-2012-2008-2003-2000。" class="headerlink" title="7-Zip 适用于 Windows 11 &#x2F; 10 &#x2F; 8 &#x2F; 7 &#x2F; Vista &#x2F; XP &#x2F; 2022 &#x2F; 2019 &#x2F; 2016 &#x2F; 2012 &#x2F; 2008 &#x2F; 2003 &#x2F; 2000。"></a>7-Zip 适用于 Windows 11 &#x2F; 10 &#x2F; 8 &#x2F; 7 &#x2F; Vista &#x2F; XP &#x2F; 2022 &#x2F; 2019 &#x2F; 2016 &#x2F; 2012 &#x2F; 2008 &#x2F; 2003 &#x2F; 2000。</h1><h1 id="下载地址"><a href="#下载地址" class="headerlink" title="下载地址"></a>下载地址</h1><p><a href="https://www.7-zip.org/">https://www.7-zip.org/</a></p>
+]]></content>
+      <categories>
+        <category>工具</category>
+      </categories>
+      <tags>
+        <tag>工具</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Bandizip压缩软件</title>
     <url>/2024/11/02/Bandizip/</url>
     <content><![CDATA[<h1 id="压缩软件Bandizip"><a href="#压缩软件Bandizip" class="headerlink" title="压缩软件Bandizip"></a>压缩软件Bandizip</h1><img src="https://img.onlinedown.net/download/202112/092348-61b0092483a5d.jpg" alt="Bandizip压缩软件" style="zoom:50%;" />
@@ -9,6 +38,7 @@
 <p>Bandizip 是一个强大的多功能压缩文件管理工具，可提供很快的解压缩速度和其他各种实用功能。</p>
 <p>这是一个免费的软件，其付费版本更是可以使用更多的实用功能。</p>
 <h1 id="支持系统"><a href="#支持系统" class="headerlink" title="支持系统"></a>支持系统</h1><p>支持的操作系统: Windows 7, 8, 8.1, 10, 11 (32bit, 64bit, ARM64)</p>
+<h1 id="下载地址"><a href="#下载地址" class="headerlink" title="下载地址"></a>下载地址</h1><p>Bandizip官方网站: <a href="https://www.bandisoft.com/bandizip/">https://www.bandisoft.com/bandizip/</a></p>
 ]]></content>
       <categories>
         <category>工具</category>
@@ -278,6 +308,21 @@
       </tags>
   </entry>
   <entry>
+    <title>obs</title>
+    <url>/2024/10/12/obs/</url>
+    <content><![CDATA[<h2 id="OBS-Studio"><a href="#OBS-Studio" class="headerlink" title="OBS Studio"></a>OBS Studio</h2><p>OBS Studio 是一款开源的视频录制、直播和录制加速软件。它支持 Windows、Mac、Linux 平台，支持多种视频源和输出，包括摄像头、屏幕录制、文件、IP 电视、网络摄像头、录制设备、蓝光光碟等。它支持多种录制格式，包括 FLV、MP4、MKV、AVI、WebM、HLS、RTMP 等。它还支持直播和录制加速功能，包括录制延迟优化、流畅度优化、CPU 占用优化、带宽优化等。</p>
+<h2 id="下载地址"><a href="#下载地址" class="headerlink" title="下载地址"></a>下载地址</h2><ul>
+<li><a href="https://obsproject.com/download">官网下载</a></li>
+</ul>
+]]></content>
+      <categories>
+        <category>视频软件</category>
+      </categories>
+      <tags>
+        <tag>视频软件</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>motrix功能齐全的下载管理器</title>
     <url>/2024/10/12/motrix/</url>
     <content><![CDATA[<h2 id="功能"><a href="#功能" class="headerlink" title="功能"></a>功能</h2><p>支持下载 HTTP、FTP、BitTorrent、Magnet 等。</p>
@@ -306,21 +351,6 @@
       </categories>
       <tags>
         <tag>工具</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>obs</title>
-    <url>/2024/10/12/obs/</url>
-    <content><![CDATA[<h2 id="OBS-Studio"><a href="#OBS-Studio" class="headerlink" title="OBS Studio"></a>OBS Studio</h2><p>OBS Studio 是一款开源的视频录制、直播和录制加速软件。它支持 Windows、Mac、Linux 平台，支持多种视频源和输出，包括摄像头、屏幕录制、文件、IP 电视、网络摄像头、录制设备、蓝光光碟等。它支持多种录制格式，包括 FLV、MP4、MKV、AVI、WebM、HLS、RTMP 等。它还支持直播和录制加速功能，包括录制延迟优化、流畅度优化、CPU 占用优化、带宽优化等。</p>
-<h2 id="下载地址"><a href="#下载地址" class="headerlink" title="下载地址"></a>下载地址</h2><ul>
-<li><a href="https://obsproject.com/download">官网下载</a></li>
-</ul>
-]]></content>
-      <categories>
-        <category>视频软件</category>
-      </categories>
-      <tags>
-        <tag>视频软件</tag>
       </tags>
   </entry>
   <entry>
@@ -433,6 +463,21 @@
       </categories>
       <tags>
         <tag>教程</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>解压缩工具推荐</title>
+    <url>/2024/11/23/winrar/</url>
+    <content><![CDATA[<h2 id="WinRAR"><a href="#WinRAR" class="headerlink" title="WinRAR"></a>WinRAR</h2><img src="https://www.winrar.com.cn/images/ban700.jpg" alt="WinRAR" style="zoom:50%;" />
+
+<h1 id="主要功能"><a href="#主要功能" class="headerlink" title="主要功能"></a>主要功能</h1><p>不让复制，真坏！</p>
+<h1 id="下载地址"><a href="#下载地址" class="headerlink" title="下载地址"></a>下载地址</h1><p><a href="https://www.winrar.com.cn/index.htm">WinRAR</a></p>
+]]></content>
+      <categories>
+        <category>工具</category>
+      </categories>
+      <tags>
+        <tag>工具</tag>
       </tags>
   </entry>
   <entry>
