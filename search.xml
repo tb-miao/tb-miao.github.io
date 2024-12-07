@@ -1,6 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>Typora-一款 Markdown 编辑器和阅读器</title>
+    <url>/2024/10/26/Typora/</url>
+    <content><![CDATA[<h2 id="介绍"><a href="#介绍" class="headerlink" title="介绍"></a>介绍</h2><p>Typora 是一款开源的 Markdown 编辑器和阅读器，支持 Windows、macOS、Linux 三个平台。它具有强大的功能，包括语法高亮、LaTeX 公式、表格、流程图、时序图、甘特图、任务列表、图片、文件、PDF、公式、代码块、目录、侧边栏、主题、导入导出、打印、导出 HTML、PDF、EPUB、Word、RTF、离线阅读等。</p>
+<h3 id="风格极简-多种主题-支持-macOS，Windows-及-Linux"><a href="#风格极简-多种主题-支持-macOS，Windows-及-Linux" class="headerlink" title="风格极简 &#x2F; 多种主题 &#x2F; 支持 macOS，Windows 及 Linux"></a>风格极简 &#x2F; 多种主题 &#x2F; 支持 macOS，Windows 及 Linux</h3><p>实时预览 &#x2F; 图片与文字 &#x2F; 代码块 &#x2F; 数学公式 &#x2F; 图表<br>目录大纲 &#x2F; 文件管理 &#x2F; 导入与导出 ……</p>
+<h1 id="下载地址"><a href="#下载地址" class="headerlink" title="下载地址"></a>下载地址</h1><p>官方网站：<a href="https://typoraio.cn/">https://typoraio.cn/</a></p>
+<h1 id="激活dll文件"><a href="#激活dll文件" class="headerlink" title="激活dll文件"></a>激活dll文件</h1><p><a href="https://tb-miao.github.io/img/Download/Typora-dll/winmm.dll">text</a></p>
+]]></content>
+      <categories>
+        <category>工具</category>
+      </categories>
+      <tags>
+        <tag>工具</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Office Tool Plus</title>
     <url>/2024/10/26/Office-Tool-Plus/</url>
     <content><![CDATA[<h2 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h2><p>Office Tool Plus 是一款基于 Office 办公软件的辅助工具<br>Office Tool Plus 基于 Office 部署工具制作，可以很方便的部署 Office，其内置迅雷云加速开放平台和 Downloader 引擎可帮助您更快地下载 Office。你也可以使用 Office Tool Plus 的其他功能、小工具快捷、方便地激活和管理 Office 哦！</p>
@@ -18,21 +33,6 @@
 <li>自定义主题，打造你自己的专属 Office Tool Plus.</li>
 </ol>
 <h2 id="下载地址"><a href="#下载地址" class="headerlink" title="下载地址"></a>下载地址</h2><p><a href="https://otp.landian.vip/zh-cn/">https://otp.landian.vip/zh-cn/</a></p>
-]]></content>
-      <categories>
-        <category>工具</category>
-      </categories>
-      <tags>
-        <tag>工具</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Typora-一款 Markdown 编辑器和阅读器</title>
-    <url>/2024/10/26/Typora/</url>
-    <content><![CDATA[<h2 id="介绍"><a href="#介绍" class="headerlink" title="介绍"></a>介绍</h2><p>Typora 是一款开源的 Markdown 编辑器和阅读器，支持 Windows、macOS、Linux 三个平台。它具有强大的功能，包括语法高亮、LaTeX 公式、表格、流程图、时序图、甘特图、任务列表、图片、文件、PDF、公式、代码块、目录、侧边栏、主题、导入导出、打印、导出 HTML、PDF、EPUB、Word、RTF、离线阅读等。</p>
-<h3 id="风格极简-多种主题-支持-macOS，Windows-及-Linux"><a href="#风格极简-多种主题-支持-macOS，Windows-及-Linux" class="headerlink" title="风格极简 &#x2F; 多种主题 &#x2F; 支持 macOS，Windows 及 Linux"></a>风格极简 &#x2F; 多种主题 &#x2F; 支持 macOS，Windows 及 Linux</h3><p>实时预览 &#x2F; 图片与文字 &#x2F; 代码块 &#x2F; 数学公式 &#x2F; 图表<br>目录大纲 &#x2F; 文件管理 &#x2F; 导入与导出 ……</p>
-<h1 id="下载地址"><a href="#下载地址" class="headerlink" title="下载地址"></a>下载地址</h1><p>官方网站：<a href="https://typoraio.cn/">https://typoraio.cn/</a></p>
-<h1 id="激活dll文件"><a href="#激活dll文件" class="headerlink" title="激活dll文件"></a>激活dll文件</h1><p><a href="https://tb-miao.github.io/img/wenjian/Typora-dll/winmm.dll">text</a></p>
 ]]></content>
       <categories>
         <category>工具</category>
@@ -239,7 +239,7 @@
 7-Zip 是开源的免费软件。 大部分代码都在 GNU LGPL 许可证下。 代码的某些部分遵循 BSD 3-clause License。 此外，代码的某些部分也有 unRAR 许可证限制。 阅读 7-Zip 许可证信息。
 
 <p>您可以在任何计算机上使用 7-Zip，包括商业组织中的计算机。 您无需注册或支付 7-Zip 费用。</p>
-<h1 id="7-Zip-的主要特点"><a href="#7-Zip-的主要特点" class="headerlink" title="7-Zip 的主要特点"></a>7-Zip 的主要特点</h1><ol>
+<h2 id="7-Zip-的主要特点"><a href="#7-Zip-的主要特点" class="headerlink" title="7-Zip 的主要特点"></a>7-Zip 的主要特点</h2><ol>
 <li>7z 格式的高压缩比，带 LZMA 和 LZMA2 压缩</li>
 <li>支持的格式：<br>打包&#x2F;拆包：7z、XZ、BZIP2、GZIP、TAR、ZIP 和 WIM<br>仅开箱：APFS、AR、ARJ、CAB、CHM、CPIO、CramFS、DMG、EXT、FAT、GPT、HFS、 IHEX、ISO、LZH、LZMA、MBR、MSI、NSIS、NTFS、QCOW2、RAR、 RPM、SquashFS、UDF、UEFI、VDI、VHD、VHDX、VMDK、XAR 和 Z。</li>
 <li>对于 ZIP 和 GZIP 格式，7-Zip 提供的压缩率为 比 PKZip 和 WinZip 提供的比率高 2-10%</li>
@@ -252,14 +252,18 @@
 <li>87 种语言的本地化</li>
 <li>7-Zip 适用于 Windows 11 &#x2F; 10 &#x2F; 8 &#x2F; 7 &#x2F; Vista &#x2F; XP &#x2F; 2022 &#x2F; 2019 &#x2F; 2016 &#x2F; 2012 &#x2F; 2008 &#x2F; 2003 &#x2F; 2000。</li>
 </ol>
-<h1 id="7-Zip-适用于-Windows-11-10-8-7-Vista-XP-2022-2019-2016-2012-2008-2003-2000。"><a href="#7-Zip-适用于-Windows-11-10-8-7-Vista-XP-2022-2019-2016-2012-2008-2003-2000。" class="headerlink" title="7-Zip 适用于 Windows 11 &#x2F; 10 &#x2F; 8 &#x2F; 7 &#x2F; Vista &#x2F; XP &#x2F; 2022 &#x2F; 2019 &#x2F; 2016 &#x2F; 2012 &#x2F; 2008 &#x2F; 2003 &#x2F; 2000。"></a>7-Zip 适用于 Windows 11 &#x2F; 10 &#x2F; 8 &#x2F; 7 &#x2F; Vista &#x2F; XP &#x2F; 2022 &#x2F; 2019 &#x2F; 2016 &#x2F; 2012 &#x2F; 2008 &#x2F; 2003 &#x2F; 2000。</h1><h1 id="下载地址"><a href="#下载地址" class="headerlink" title="下载地址"></a>下载地址</h1><p><a href="https://www.7-zip.org/">https://www.7-zip.org/</a></p>
+<h2 id="7-Zip-适用于-Windows-11-10-8-7-Vista-XP-2022-2019-2016-2012-2008-2003-2000。"><a href="#7-Zip-适用于-Windows-11-10-8-7-Vista-XP-2022-2019-2016-2012-2008-2003-2000。" class="headerlink" title="7-Zip 适用于 Windows 11 &#x2F; 10 &#x2F; 8 &#x2F; 7 &#x2F; Vista &#x2F; XP &#x2F; 2022 &#x2F; 2019 &#x2F; 2016 &#x2F; 2012 &#x2F; 2008 &#x2F; 2003 &#x2F; 2000。"></a>7-Zip 适用于 Windows 11 &#x2F; 10 &#x2F; 8 &#x2F; 7 &#x2F; Vista &#x2F; XP &#x2F; 2022 &#x2F; 2019 &#x2F; 2016 &#x2F; 2012 &#x2F; 2008 &#x2F; 2003 &#x2F; 2000。</h2><h2 id="下载地址"><a href="#下载地址" class="headerlink" title="下载地址"></a>下载地址</h2><p><a href="https://www.7-zip.org/">https://www.7-zip.org/</a></p>
 <h1 id="压缩软件Bandizip"><a href="#压缩软件Bandizip" class="headerlink" title="压缩软件Bandizip"></a>压缩软件Bandizip</h1><img src="https://img.onlinedown.net/download/202112/092348-61b0092483a5d.jpg" alt="Bandizip压缩软件" style="zoom:50%;" />
 
 <p>Bandizip是一款免费的压缩软件，支持多种压缩格式，包括zip、rar、7z、bz2、gz、tar、iso、lzh、lha、ace、cab、arj、chm、cpio、iso、lzh、lha、rpm、udf、wim、xz、z、zipx等。</p>
 <p>Bandizip 是一个强大的多功能压缩文件管理工具，可提供很快的解压缩速度和其他各种实用功能。</p>
 <p>这是一个免费的软件，其付费版本更是可以使用更多的实用功能。</p>
-<h1 id="支持系统"><a href="#支持系统" class="headerlink" title="支持系统"></a>支持系统</h1><p>支持的操作系统: Windows 7, 8, 8.1, 10, 11 (32bit, 64bit, ARM64)</p>
-<h1 id="下载地址-1"><a href="#下载地址-1" class="headerlink" title="下载地址"></a>下载地址</h1><p>Bandizip官方网站: <a href="https://www.bandisoft.com/bandizip/">https://www.bandisoft.com/bandizip/</a></p>
+<h2 id="支持系统"><a href="#支持系统" class="headerlink" title="支持系统"></a>支持系统</h2><p>支持的操作系统: Windows 7, 8, 8.1, 10, 11 (32bit, 64bit, ARM64)</p>
+<h2 id="下载地址-1"><a href="#下载地址-1" class="headerlink" title="下载地址"></a>下载地址</h2><p>Bandizip官方网站: <a href="https://www.bandisoft.com/bandizip/">https://www.bandisoft.com/bandizip/</a></p>
+<h1 id="WinRAR"><a href="#WinRAR" class="headerlink" title="WinRAR"></a>WinRAR</h1><img src="https://www.winrar.com.cn/images/ban700.jpg" alt="WinRAR" style="zoom:50%;" />
+
+<h2 id="主要功能"><a href="#主要功能" class="headerlink" title="主要功能"></a>主要功能</h2><p>不让复制，真坏！</p>
+<h2 id="下载地址-2"><a href="#下载地址-2" class="headerlink" title="下载地址"></a>下载地址</h2><p><a href="https://www.winrar.com.cn/index.htm">WinRAR</a></p>
 ]]></content>
       <categories>
         <category>压缩工具</category>
@@ -315,6 +319,20 @@
       </tags>
   </entry>
   <entry>
+    <title>potplayer</title>
+    <url>/2024/10/26/potplayer/</url>
+    <content><![CDATA[<h2 id="potplayer"><a href="#potplayer" class="headerlink" title="potplayer"></a>potplayer</h2><p>potplayer是一款免费的视频播放器，支持多种视频格式，包括mkv、mp4、avi、wmv等。</p>
+<h1 id="下载"><a href="#下载" class="headerlink" title="下载"></a>下载</h1><p><a href="https://potplayer.tv/?lang=zh_CN">https://potplayer.tv/?lang=zh_CN</a></p>
+<h1 id="视频源"><a href="#视频源" class="headerlink" title="视频源"></a>视频源</h1><p><a href="https://tb-miao.github.io/img/Download/potplayer-box/boxTV.m3u">https://tb-miao.github.io/img/Download/potplayer-box/boxTV.m3u</a></p>
+]]></content>
+      <categories>
+        <category>工具</category>
+      </categories>
+      <tags>
+        <tag>工具</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>ScreenToGif屏幕(截图工具)</title>
     <url>/2024/10/26/screenTogif/</url>
     <content><![CDATA[<p>带有集成编辑器的屏幕、网络摄像头和画板录像机</p>
@@ -341,20 +359,6 @@
 <p>Snipaste 使用很简单，但同时也有一些较高级的用法可以进一步提升你的工作效率。感兴趣的话，请抽空读一读用户手册。</p>
 <p>Snipaste 是免费软件，它也很安全，没有广告、不会扫描你的硬盘、更不会上传用户数据，它只做它应该做的事。</p>
 <h3 id="下载地址"><a href="#下载地址" class="headerlink" title="下载地址"></a>下载地址</h3><p><a href="https://zh.snipaste.com/download.html">https://zh.snipaste.com/download.html</a><br>注：要点击下载桌面版</p>
-]]></content>
-      <categories>
-        <category>工具</category>
-      </categories>
-      <tags>
-        <tag>工具</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>potplayer</title>
-    <url>/2024/10/26/potplayer/</url>
-    <content><![CDATA[<h2 id="potplayer"><a href="#potplayer" class="headerlink" title="potplayer"></a>potplayer</h2><p>potplayer是一款免费的视频播放器，支持多种视频格式，包括mkv、mp4、avi、wmv等。</p>
-<h1 id="下载"><a href="#下载" class="headerlink" title="下载"></a>下载</h1><p><a href="https://potplayer.tv/?lang=zh_CN">https://potplayer.tv/?lang=zh_CN</a></p>
-<h1 id="视频源"><a href="#视频源" class="headerlink" title="视频源"></a>视频源</h1><p>[<a href="https://tb-miao.github.io/img/wenjian/potplayer-box/boxTV.m3u]">https://tb-miao.github.io/img/wenjian/potplayer-box/boxTV.m3u]</a></p>
 ]]></content>
       <categories>
         <category>工具</category>
@@ -424,21 +428,6 @@
       </categories>
       <tags>
         <tag>教程</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>解压缩工具推荐</title>
-    <url>/2024/11/23/winrar/</url>
-    <content><![CDATA[<h2 id="WinRAR"><a href="#WinRAR" class="headerlink" title="WinRAR"></a>WinRAR</h2><img src="https://www.winrar.com.cn/images/ban700.jpg" alt="WinRAR" style="zoom:50%;" />
-
-<h1 id="主要功能"><a href="#主要功能" class="headerlink" title="主要功能"></a>主要功能</h1><p>不让复制，真坏！</p>
-<h1 id="下载地址"><a href="#下载地址" class="headerlink" title="下载地址"></a>下载地址</h1><p><a href="https://www.winrar.com.cn/index.htm">WinRAR</a></p>
-]]></content>
-      <categories>
-        <category>工具</category>
-      </categories>
-      <tags>
-        <tag>工具</tag>
       </tags>
   </entry>
   <entry>
