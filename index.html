@@ -1,82 +1,248 @@
 <!DOCTYPE html>
-<html lang="zh">
+<html lang="zh-CN">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="icon" href="./nav-images/icon.jpg">
+    <link rel="icon" href="./nav-images/pngpngpngngng.png">
     <title>TB-miao导航网站</title>
     <style>
+        /* 引入二次元风格字体 */
+        @font-face {
+            font-family: 'AnimeFont';
+            src: url('https://fonts.gstatic.com/s/opensans/v20/mem8YaGs126MiZpBA-UFVZ0e.ttf');
+        }
+
+        /* 全局样式 */
         body {
-            font-family: 'Arial', sans-serif;
-            background-color: #f0f8ff;
-            color: #333;
+            font-family: 'AnimeFont', cursive, sans-serif;
+            background: url('./nav-images/pngpngpngngng.png') no-repeat center center fixed;
+            background-size: cover;
             margin: 0;
             padding: 0;
-            text-align: center;
-            background-image: linear-gradient(to bottom right, #e0f7fa, #ffebee); /* 渐变背景 */
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+            animation: bgShift 20s linear infinite alternate;
+            position: relative;
         }
-        header {
-            background: url('https://example.com/your-background-image.jpg') no-repeat center center/cover;
-            padding: 50px 0;
-            color: white;
-            border-bottom: 5px solid #ff69b4; /* 底部边框 */
+
+        /* 背景移动动画 */
+        @keyframes bgShift {
+            from {
+                background-position: 0% 0%;
+            }
+            to {
+                background-position: 100% 100%;
+            }
         }
+
+        /* 背景粒子效果 */
+        body::before {
+            content: "";
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" width="100" height="100"><circle cx="50" cy="50" r="2" fill="rgba(255,255,255,0.2)"/></svg>');
+            background-size: 20px 20px;
+            animation: particleMove 10s linear infinite;
+            z-index: -1;
+        }
+
+        @keyframes particleMove {
+            0% {
+                background-position: 0 0;
+            }
+            100% {
+                background-position: 20px 20px;
+            }
+        }
+
+        /* 容器样式 */
+        .container {
+            background: rgba(255, 255, 255, 0.1);
+            backdrop-filter: blur(15px);
+            -webkit-backdrop-filter: blur(15px);
+            padding: 40px;
+            border-radius: 30px;
+            box-shadow: 0 0 50px rgba(255, 107, 129, 0.6);
+            width: 80%;
+            max-width: 650px;
+            animation: fadeIn 1s ease-in-out, pulse 3s infinite;
+            position: relative;
+            overflow: hidden;
+            margin-bottom: auto;
+        }
+
+        /* 淡入动画 */
+        @keyframes fadeIn {
+            from {
+                opacity: 0;
+                transform: translateY(-20px);
+            }
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+
+        /* 容器呼吸动画 */
+        @keyframes pulse {
+            0% {
+                box-shadow: 0 0 50px rgba(255, 107, 129, 0.6);
+            }
+            50% {
+                box-shadow: 0 0 80px rgba(255, 107, 129, 0.8);
+            }
+            100% {
+                box-shadow: 0 0 50px rgba(255, 107, 129, 0.6);
+            }
+        }
+
+        /* 标题样式 */
         h1 {
-            font-size: 3.5em; /* 增大字体 */
-            margin: 0;
-            color: #ff69b4; /* 文字颜色 */
-            text-shadow: 3px 3px 6px rgba(0, 0, 0, 0.7); /* 更强的文字阴影 */
-            font-family: 'Comic Sans MS', cursive, sans-serif; /* 字体样式 */
-            letter-spacing: 3px; /* 字母间距 */
-            transition: transform 0.3s, color 0.3s; /* 动画效果 */
+            text-align: center;
+            color: #fff;
+            text-shadow: 0 0 15px #ff6b81, 0 0 30px #ff6b81, 0 0 45px #ff6b81;
+            font-size: 3.5em;
+            margin-bottom: 40px;
+            animation: neonFlicker 1.5s infinite alternate, float 3s ease-in-out infinite;
         }
-        h1:hover {
-            transform: scale(1.1); /* 鼠标悬停时放大 */
-            color: #ff1493; /* 鼠标悬停时颜色变化 */
+
+        /* 标题霓虹闪烁动画 */
+        @keyframes neonFlicker {
+            0%, 19%, 21%, 23%, 25%, 54%, 56%, 100% {
+                text-shadow: 0 0 15px #ff6b81, 0 0 30px #ff6b81, 0 0 45px #ff6b81;
+            }
+            20%, 24%, 55% {
+                text-shadow: none;
+            }
         }
-        nav {
-            margin: 20px 0;
+
+        /* 标题漂浮动画 */
+        @keyframes float {
+            0% {
+                transform: translateY(0);
+            }
+            50% {
+                transform: translateY(-10px);
+            }
+            100% {
+                transform: translateY(0);
+            }
         }
-        nav a {
-            display: inline-block;
-            margin: 10px 20px;
-            padding: 15px 25px;
-            background-color: #ff69b4;
+
+        /* 列表样式 */
+        ul {
+            list-style-type: none;
+            padding: 0;
+        }
+
+        li {
+            margin-bottom: 25px;
+        }
+
+        /* 链接样式 */
+        a {
+            display: block;
+            padding: 18px;
+            background: linear-gradient(135deg, #ff6b81, #ff4757, #ff1493);
             color: white;
             text-decoration: none;
-            border-radius: 10px; /* 圆角更大 */
-            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* 添加阴影 */
-            transition: background-color 0.3s, transform 0.3s; /* 动画效果 */
+            border-radius: 15px;
+            text-align: center;
+            font-size: 1.4em;
+            transition: all 0.3s ease;
+            box-shadow: 0 0 20px rgba(255, 107, 129, 0.5);
+            position: relative;
+            overflow: hidden;
         }
-        nav a:hover {
-            background-color: #ff1493;
-            transform: translateY(-2px); /* 鼠标悬停时上移 */
+
+        /* 链接悬停样式 */
+        a:hover {
+            transform: scale(1.1);
+            box-shadow: 0 0 30px rgba(255, 107, 129, 0.8);
+            background: linear-gradient(135deg, #ff1493, #ff4757, #ff6b81);
         }
-        footer {
-            margin-top: 50px;
-            padding: 20px 0;
-            background-color: #ff69b4;
-            color: white;
-            border-top: 5px solid #ff1493; /* 顶部边框 */
+
+        /* 链接内的闪光效果 */
+        a::before {
+            content: "";
+            position: absolute;
+            top: 0;
+            left: -100%;
+            width: 100%;
+            height: 100%;
+            background: rgba(255, 255, 255, 0.2);
+            transform: skewX(-25deg);
+            animation: shine 3s infinite;
         }
-        footer p {
-            margin: 0; /* 去掉默认边距 */
+
+        /* 闪光动画 */
+        @keyframes shine {
+            0% {
+                left: -100%;
+            }
+            100% {
+                left: 100%;
+            }
+        }
+
+        /* 容器内的星光效果 */
+        .container::after {
+            content: "";
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" width="10" height="10"><circle cx="5" cy="5" r="1" fill="rgba(255,255,255,0.3)"/></svg>');
+            background-size: 10px 10px;
+            animation: starMove 5s linear infinite;
+            z-index: -1;
+        }
+
+        @keyframes starMove {
+            0% {
+                background-position: 0 0;
+            }
+            100% {
+                background-position: 10px 10px;
+            }
+        }
+
+        /* 底部版权样式 */
+        .copyright {
+            color: #f12ea6;
+            text-shadow: 0 0 10px #47e8f3;
+            margin-top: 20px;
+            margin-bottom: 20px;
+            font-size: 0.9em;
         }
     </style>
 </head>
+
 <body>
-
-<header>
-    <h1>TB-miao导航网站</h1>
-</header>
-
-<nav>
-    <a href="/" target="_blank">正在开发中...</a>
-</nav>
-
-<footer>
-    <p>&copy; 2024-2025 tb-miao导航网站. MIT 所有权利.</p>
-</footer>
-
+    <div class="container">
+        <h1>TB-miao导航网站</h1>
+        <ul>
+            <li><a href="https://www.bilibili.com/" target="_blank">哔哩哔哩</a></li>
+            <li><a href="https://github.com" target="_blank">Github</a></li>
+        </ul>
+        <h1>作者自制</h1>
+        <ul>
+            <li><a href="https://tb-miao.github.io" target="_blank">本站地址</a></li>
+            <li><a href="https://github.com/tb-miao/tb-miao.github.io" target="_blank">本站源码</a></li>
+            <li><a href="https://blog.tbmiao.us.kg" target="_blank">博客地址</a></li>
+        </ul>
+    </div>
+    <div class="copyright">
+        &copy; 2024-2025 TB-miao导航网站. 保留所有权利.
+    </div>
 </body>
-</html>
+
+</html>    
