@@ -2,7 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://tb-miao.github.io/tbgame/index.html</loc>
+    <loc>https://tbmiao.dpdns.org/archives/hexo-blog-stop/</loc>
+    
+    <lastmod>2025-07-12</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://tbmiao.dpdns.org/tbgame/index.html</loc>
     
     <lastmod>2025-04-19</lastmod>
     
@@ -11,7 +20,7 @@
   </url>
   
   <url>
-    <loc>https://tb-miao.github.io/posts/music/</loc>
+    <loc>https://tbmiao.dpdns.org/archives/music/</loc>
     
     <lastmod>2025-04-19</lastmod>
     
@@ -20,7 +29,7 @@
   </url>
   
   <url>
-    <loc>https://tb-miao.github.io/posts/yuancheng/</loc>
+    <loc>https://tbmiao.dpdns.org/archives/yuancheng/</loc>
     
     <lastmod>2025-04-19</lastmod>
     
@@ -29,7 +38,7 @@
   </url>
   
   <url>
-    <loc>https://tb-miao.github.io/posts/hexo-blog/</loc>
+    <loc>https://tbmiao.dpdns.org/archives/hexo-blog/</loc>
     
     <lastmod>2025-04-06</lastmod>
     
@@ -38,7 +47,7 @@
   </url>
   
   <url>
-    <loc>https://tb-miao.github.io/posts/jygj/</loc>
+    <loc>https://tbmiao.dpdns.org/archives/jygj/</loc>
     
     <lastmod>2025-04-06</lastmod>
     
@@ -47,7 +56,7 @@
   </url>
   
   <url>
-    <loc>https://tb-miao.github.io/posts/idm/</loc>
+    <loc>https://tbmiao.dpdns.org/archives/idm/</loc>
     
     <lastmod>2025-04-06</lastmod>
     
@@ -56,7 +65,7 @@
   </url>
   
   <url>
-    <loc>https://tb-miao.github.io/posts/innosetup/</loc>
+    <loc>https://tbmiao.dpdns.org/archives/innosetup/</loc>
     
     <lastmod>2025-04-06</lastmod>
     
@@ -65,7 +74,7 @@
   </url>
   
   <url>
-    <loc>https://tb-miao.github.io/posts/jktk/</loc>
+    <loc>https://tbmiao.dpdns.org/archives/javafwqgj/</loc>
     
     <lastmod>2025-04-06</lastmod>
     
@@ -74,7 +83,7 @@
   </url>
   
   <url>
-    <loc>https://tb-miao.github.io/posts/javafwqgj/</loc>
+    <loc>https://tbmiao.dpdns.org/archives/jktk/</loc>
     
     <lastmod>2025-04-06</lastmod>
     
@@ -83,7 +92,7 @@
   </url>
   
   <url>
-    <loc>https://tb-miao.github.io/posts/motrix/</loc>
+    <loc>https://tbmiao.dpdns.org/archives/motrix/</loc>
     
     <lastmod>2025-04-06</lastmod>
     
@@ -92,7 +101,7 @@
   </url>
   
   <url>
-    <loc>https://tb-miao.github.io/posts/nwjs/</loc>
+    <loc>https://tbmiao.dpdns.org/archives/nwjs/</loc>
     
     <lastmod>2025-04-06</lastmod>
     
@@ -101,7 +110,7 @@
   </url>
   
   <url>
-    <loc>https://tb-miao.github.io/posts/Office-Tool-Plus/</loc>
+    <loc>https://tbmiao.dpdns.org/archives/Office-Tool-Plus/</loc>
     
     <lastmod>2025-04-06</lastmod>
     
@@ -110,7 +119,7 @@
   </url>
   
   <url>
-    <loc>https://tb-miao.github.io/posts/obs/</loc>
+    <loc>https://tbmiao.dpdns.org/archives/obs/</loc>
     
     <lastmod>2025-04-06</lastmod>
     
@@ -119,7 +128,7 @@
   </url>
   
   <url>
-    <loc>https://tb-miao.github.io/posts/potplayer/</loc>
+    <loc>https://tbmiao.dpdns.org/archives/potplayer/</loc>
     
     <lastmod>2025-04-06</lastmod>
     
@@ -128,7 +137,7 @@
   </url>
   
   <url>
-    <loc>https://tb-miao.github.io/posts/screenTogif/</loc>
+    <loc>https://tbmiao.dpdns.org/archives/screenTogif/</loc>
     
     <lastmod>2025-04-06</lastmod>
     
@@ -137,7 +146,7 @@
   </url>
   
   <url>
-    <loc>https://tb-miao.github.io/posts/snipaste/</loc>
+    <loc>https://tbmiao.dpdns.org/archives/snipaste/</loc>
     
     <lastmod>2025-04-06</lastmod>
     
@@ -146,7 +155,7 @@
   </url>
   
   <url>
-    <loc>https://tb-miao.github.io/posts/Typora/</loc>
+    <loc>https://tbmiao.dpdns.org/archives/Typora/</loc>
     
     <lastmod>2025-04-06</lastmod>
     
@@ -155,7 +164,7 @@
   </url>
   
   <url>
-    <loc>https://tb-miao.github.io/posts/wangyiban/</loc>
+    <loc>https://tbmiao.dpdns.org/archives/wangyiban/</loc>
     
     <lastmod>2025-04-06</lastmod>
     
@@ -164,7 +173,7 @@
   </url>
   
   <url>
-    <loc>https://tb-miao.github.io/posts/windowsjh/</loc>
+    <loc>https://tbmiao.dpdns.org/archives/windowsjh/</loc>
     
     <lastmod>2025-04-06</lastmod>
     
@@ -173,7 +182,7 @@
   </url>
   
   <url>
-    <loc>https://tb-miao.github.io/posts/xzgj/</loc>
+    <loc>https://tbmiao.dpdns.org/archives/xzgj/</loc>
     
     <lastmod>2025-04-06</lastmod>
     
@@ -182,7 +191,7 @@
   </url>
   
   <url>
-    <loc>https://tb-miao.github.io/tags/index.html</loc>
+    <loc>https://tbmiao.dpdns.org/tags/index.html</loc>
     
     <lastmod>2025-04-06</lastmod>
     
@@ -191,7 +200,7 @@
   </url>
   
   <url>
-    <loc>https://tb-miao.github.io/categories/index.html</loc>
+    <loc>https://tbmiao.dpdns.org/categories/index.html</loc>
     
     <lastmod>2025-04-06</lastmod>
     
@@ -200,7 +209,7 @@
   </url>
   
   <url>
-    <loc>https://tb-miao.github.io/archives/index.html</loc>
+    <loc>https://tbmiao.dpdns.org/archives/index.html</loc>
     
     <lastmod>2025-04-06</lastmod>
     
@@ -209,7 +218,7 @@
   </url>
   
   <url>
-    <loc>https://tb-miao.github.io/about/index.html</loc>
+    <loc>https://tbmiao.dpdns.org/about/index.html</loc>
     
     <lastmod>2025-04-06</lastmod>
     
@@ -218,7 +227,7 @@
   </url>
   
   <url>
-    <loc>https://tb-miao.github.io/links/index.html</loc>
+    <loc>https://tbmiao.dpdns.org/links/index.html</loc>
     
     <lastmod>2025-04-06</lastmod>
     
@@ -228,51 +237,51 @@
   
 
   <url>
-    <loc>https://tb-miao.github.io/</loc>
-    <lastmod>2025-05-24</lastmod>
+    <loc>https://tbmiao.dpdns.org/</loc>
+    <lastmod>2025-07-12</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
 
   
   <url>
-    <loc>https://tb-miao.github.io/tags/%E6%8E%A8%E8%8D%90/</loc>
-    <lastmod>2025-05-24</lastmod>
+    <loc>https://tbmiao.dpdns.org/tags/%E6%8E%A8%E8%8D%90/</loc>
+    <lastmod>2025-07-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://tb-miao.github.io/tags/%E6%95%99%E7%A8%8B/</loc>
-    <lastmod>2025-05-24</lastmod>
+    <loc>https://tbmiao.dpdns.org/tags/Hexo/</loc>
+    <lastmod>2025-07-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://tb-miao.github.io/tags/Hexo/</loc>
-    <lastmod>2025-05-24</lastmod>
+    <loc>https://tbmiao.dpdns.org/tags/%E6%95%99%E7%A8%8B/</loc>
+    <lastmod>2025-07-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://tb-miao.github.io/tags/%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8Cjava/</loc>
-    <lastmod>2025-05-24</lastmod>
+    <loc>https://tbmiao.dpdns.org/tags/%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8Cjava/</loc>
+    <lastmod>2025-07-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://tb-miao.github.io/tags/%E5%BC%80%E5%8F%91/</loc>
-    <lastmod>2025-05-24</lastmod>
+    <loc>https://tbmiao.dpdns.org/tags/%E5%BC%80%E5%8F%91/</loc>
+    <lastmod>2025-07-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://tb-miao.github.io/tags/windows/</loc>
-    <lastmod>2025-05-24</lastmod>
+    <loc>https://tbmiao.dpdns.org/tags/windows/</loc>
+    <lastmod>2025-07-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
